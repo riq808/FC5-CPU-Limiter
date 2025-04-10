@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FC5 CPU Limiter/1.0.0": {
+        "runtime": {
+          "FC5 CPU Limiter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FC5 CPU Limiter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
